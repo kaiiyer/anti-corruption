@@ -1,8 +1,10 @@
 # Anti-corruption
 Improving financial services policy 
 
-[![CircleCI](https://circleci.com/gh/kaiiyer/anti-corruption.svg?style=svg)](https://circleci.com/gh/kaiiyer/anti-corruption)   ![HTML](https://alibahaari.github.io/Badge/HTML.png)   ![JS](https://alibahaari.github.io/Badge/CSS.png)    ![CSS](https://alibahaari.github.io/Badge/JavaScript.png)
+![HTML](https://alibahaari.github.io/Badge/HTML.png)   ![JS](https://alibahaari.github.io/Badge/CSS.png)    ![CSS](https://alibahaari.github.io/Badge/JavaScript.png)
 
+
+[![CircleCI](https://circleci.com/gh/kaiiyer/anti-corruption.svg?style=svg)](https://circleci.com/gh/kaiiyer/anti-corruption)
 - Homepage
 
 
