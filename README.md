@@ -10,8 +10,8 @@ Improving financial services policy
 <a href="https://github.com/kaiiyer/anti-corruption/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/kaiiyer/anti-corruption"></a>
 <a href="https://github.com/kaiiyer/anti-corruption/graphs/contributors" alt="Contributors">
 <img src="https://img.shields.io/github/contributors/kaiiyer/anti-corruption" /></a>
-<a href="https://github.com/kaiiyer/anti-corruption/pulse" alt="Activity">
-<img src="https://img.shields.io/github/commit-activity/m/kaiiyer/anti-corruption" /></a>
+![Activity](https://img.shields.io/github/commit-activity/m/kaiiyer/anti-corruption)
+https://img.shields.io/github/commit-activity/m/kaiiyer/anti-corruption
 
 - Homepage
 
