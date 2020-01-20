@@ -3,7 +3,6 @@ Improving financial services policy
 
 ![HTML](https://alibahaari.github.io/Badge/HTML.png)   ![JS](https://alibahaari.github.io/Badge/CSS.png)    ![CSS](https://alibahaari.github.io/Badge/JavaScript.png)
 
-
 [![CircleCI](https://circleci.com/gh/kaiiyer/anti-corruption.svg?style=svg)](https://circleci.com/gh/kaiiyer/anti-corruption)
 <a href="https://github.com/kaiiyer/anti-corruption/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/kaiiyer/anti-corruption"></a>
 <a href="https://github.com/kaiiyer/anti-corruption/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/kaiiyer/anti-corruption"></a>
@@ -14,7 +13,6 @@ Improving financial services policy
 <!--![Activity](https://img.shields.io/github/commit-activity/m/kaiiyer/anti-corruption) -->
 
 - Homepage
-
 
 ![index.html](https://user-images.githubusercontent.com/24914913/68365197-03c0be80-0156-11ea-97e5-da89c3ff51fa.png)
 # USAGE
